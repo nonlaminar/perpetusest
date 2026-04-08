@@ -449,6 +449,7 @@
       "single_global_label": "ignore",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -647,6 +648,10 @@
     [
       "f6ccfacb-0f34-4c65-815e-9bddc1de2c83",
       "140-000 Keybaord"
+    ],
+    [
+      "f7af0f6b-1b20-491c-ab90-e7131b047fe6",
+      "141-000 Switch Matrix"
     ]
   ],
   "text_variables": {}
