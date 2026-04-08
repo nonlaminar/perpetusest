@@ -1228,6 +1228,37 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Charging and interface usb"
+		(exclude_from_sim no)
+		(at 49.784 68.326 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "70897250-f00c-4285-bb7e-873d1c536033")
+	)
+	(text "ESD Protection Circuit"
+		(exclude_from_sim no)
+		(at 87.376 58.674 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+		)
+		(uuid "ab628176-2b0e-462d-b227-c030b390c292")
+	)
+	(text "Pull this low to \ndisconnect output \nand turn off downstream"
+		(exclude_from_sim no)
+		(at 103.632 48.514 0)
+		(effects
+			(font
+				(size 1 1)
+			)
+			(justify left)
+		)
+		(uuid "ca7fd033-012e-4b58-92a7-449daec0cc21")
+	)
 	(junction
 		(at 50.8 48.26)
 		(diameter 0)
@@ -1661,10 +1692,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "b57e7b03-0a03-4c37-803a-0ed554f72dfe")
+			(uuid "b57e7b03-0a03-4c37-803a-0ed554f72dff")
 		)
 		(pin "2"
-			(uuid "d7bcd114-b950-4e32-bc55-b79166d48577")
+			(uuid "d7bcd114-b950-4e32-bc55-b79166d48578")
 		)
 		(instances
 			(project ""
