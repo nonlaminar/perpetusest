@@ -1,0 +1,13 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9104edac-832b-4e33-9eb9-45414bb4bb76")
+	(paper "A4")
+	(title_block
+		(title "140-000 (Keyboard)")
+		(date "2026-04-06")
+		(rev "1")
+	)
+	(lib_symbols)
+)
