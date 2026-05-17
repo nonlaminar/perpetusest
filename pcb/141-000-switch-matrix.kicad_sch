@@ -2431,7 +2431,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 109.22 66.04 0)
 			(effects
 				(font
@@ -2519,7 +2519,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 160.02 119.38 0)
 			(effects
 				(font
@@ -2605,7 +2605,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 165.1 74.93 0)
 			(effects
 				(font
@@ -2675,7 +2675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 160.02 138.43 0)
 			(effects
 				(font
@@ -2761,7 +2761,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 190.5 57.15 0)
 			(effects
 				(font
@@ -2831,7 +2831,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 134.62 83.82 0)
 			(effects
 				(font
@@ -2917,7 +2917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 88.9 91.44 0)
 			(effects
 				(font
@@ -2985,7 +2985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 114.3 91.44 0)
 			(effects
 				(font
@@ -3053,7 +3053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 215.9 74.93 0)
 			(effects
 				(font
@@ -3123,7 +3123,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 58.42 138.43 0)
 			(effects
 				(font
@@ -3209,7 +3209,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.25u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.25u"
 			(at 127 129.54 0)
 			(effects
 				(font
@@ -3277,7 +3277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 101.6 57.15 0)
 			(effects
 				(font
@@ -3346,7 +3346,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 96.52 138.43 0)
 			(effects
 				(font
@@ -3432,7 +3432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 177.8 74.93 0)
 			(effects
 				(font
@@ -3500,7 +3500,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 139.7 74.93 0)
 			(effects
 				(font
@@ -3569,7 +3569,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 96.52 66.04 0)
 			(effects
 				(font
@@ -3655,7 +3655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.25u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.25u"
 			(at 76.2 129.54 0)
 			(effects
 				(font
@@ -3725,7 +3725,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 109.22 83.82 0)
 			(effects
 				(font
@@ -3813,7 +3813,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 185.42 100.33 0)
 			(effects
 				(font
@@ -3899,7 +3899,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 114.3 74.93 0)
 			(effects
 				(font
@@ -3969,7 +3969,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 121.92 119.38 0)
 			(effects
 				(font
@@ -4057,7 +4057,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 71.12 66.04 0)
 			(effects
 				(font
@@ -4143,7 +4143,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.50u"
 			(at 165.1 129.54 0)
 			(effects
 				(font
@@ -4211,7 +4211,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.25u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_3.00u"
 			(at 114.3 129.54 0)
 			(effects
 				(font
@@ -4281,7 +4281,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 121.92 83.82 0)
 			(effects
 				(font
@@ -4367,7 +4367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_2.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_2.00u"
 			(at 228.6 57.15 0)
 			(effects
 				(font
@@ -4437,7 +4437,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 71.12 138.43 0)
 			(effects
 				(font
@@ -4523,7 +4523,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 139.7 91.44 0)
 			(effects
 				(font
@@ -4591,7 +4591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.25u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.25u"
 			(at 63.5 129.54 0)
 			(effects
 				(font
@@ -4661,7 +4661,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 147.32 100.33 0)
 			(effects
 				(font
@@ -4749,7 +4749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 160.02 83.82 0)
 			(effects
 				(font
@@ -4835,7 +4835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 152.4 57.15 0)
 			(effects
 				(font
@@ -4905,7 +4905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 185.42 83.82 0)
 			(effects
 				(font
@@ -4993,7 +4993,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 147.32 83.82 0)
 			(effects
 				(font
@@ -5079,7 +5079,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.50u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.50u"
 			(at 228.6 74.93 0)
 			(effects
 				(font
@@ -5147,7 +5147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.50u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.25u"
 			(at 152.4 129.54 0)
 			(effects
 				(font
@@ -5215,7 +5215,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 203.2 57.15 0)
 			(effects
 				(font
@@ -5285,7 +5285,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 109.22 100.33 0)
 			(effects
 				(font
@@ -5373,7 +5373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 58.42 119.38 0)
 			(effects
 				(font
@@ -5461,7 +5461,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 109.22 119.38 0)
 			(effects
 				(font
@@ -5549,7 +5549,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -5637,7 +5637,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 147.32 66.04 0)
 			(effects
 				(font
@@ -5723,7 +5723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 127 91.44 0)
 			(effects
 				(font
@@ -5791,7 +5791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_2.25u"
 			(at 63.5 110.49 0)
 			(effects
 				(font
@@ -5861,7 +5861,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 210.82 100.33 0)
 			(effects
 				(font
@@ -5947,7 +5947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.25u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.25u"
 			(at 139.7 129.54 0)
 			(effects
 				(font
@@ -6015,7 +6015,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.75u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.75u"
 			(at 63.5 91.44 0)
 			(effects
 				(font
@@ -6084,7 +6084,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 96.52 83.82 0)
 			(effects
 				(font
@@ -6172,7 +6172,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 134.62 100.33 0)
 			(effects
 				(font
@@ -6260,7 +6260,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 121.92 138.43 0)
 			(effects
 				(font
@@ -6346,7 +6346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 177.8 91.44 0)
 			(effects
 				(font
@@ -6414,7 +6414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 88.9 110.49 0)
 			(effects
 				(font
@@ -6482,7 +6482,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 76.2 74.93 0)
 			(effects
 				(font
@@ -6551,7 +6551,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 83.82 119.38 0)
 			(effects
 				(font
@@ -6637,7 +6637,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_3.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.25u"
 			(at 88.9 129.54 0)
 			(effects
 				(font
@@ -6705,7 +6705,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 165.1 57.15 0)
 			(effects
 				(font
@@ -6774,7 +6774,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 96.52 119.38 0)
 			(effects
 				(font
@@ -6860,7 +6860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 215.9 57.15 0)
 			(effects
 				(font
@@ -6928,7 +6928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_2.75u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 190.5 110.49 0)
 			(effects
 				(font
@@ -6998,7 +6998,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 198.12 119.38 0)
 			(effects
 				(font
@@ -7084,7 +7084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 139.7 57.15 0)
 			(effects
 				(font
@@ -7154,7 +7154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 147.32 119.38 0)
 			(effects
 				(font
@@ -7240,7 +7240,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.25u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_2.75u"
 			(at 203.2 110.49 0)
 			(effects
 				(font
@@ -7308,7 +7308,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 165.1 110.49 0)
 			(effects
 				(font
@@ -7378,7 +7378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 160.02 100.33 0)
 			(effects
 				(font
@@ -7464,7 +7464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 203.2 91.44 0)
 			(effects
 				(font
@@ -7534,7 +7534,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 58.42 66.04 0)
 			(effects
 				(font
@@ -7620,7 +7620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 101.6 74.93 0)
 			(effects
 				(font
@@ -7688,7 +7688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 190.5 91.44 0)
 			(effects
 				(font
@@ -7756,7 +7756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 127 110.49 0)
 			(effects
 				(font
@@ -7826,7 +7826,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 134.62 119.38 0)
 			(effects
 				(font
@@ -7914,7 +7914,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 147.32 138.43 0)
 			(effects
 				(font
@@ -8002,7 +8002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 109.22 138.43 0)
 			(effects
 				(font
@@ -8088,7 +8088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.50u"
 			(at 63.5 74.93 0)
 			(effects
 				(font
@@ -8158,7 +8158,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 172.72 83.82 0)
 			(effects
 				(font
@@ -8245,7 +8245,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 83.82 138.43 0)
 			(effects
 				(font
@@ -8331,7 +8331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 190.5 74.93 0)
 			(effects
 				(font
@@ -8401,7 +8401,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 172.72 119.38 0)
 			(effects
 				(font
@@ -8487,7 +8487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 152.4 91.44 0)
 			(effects
 				(font
@@ -8555,7 +8555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 127 57.15 0)
 			(effects
 				(font
@@ -8625,7 +8625,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 71.12 119.38 0)
 			(effects
 				(font
@@ -8713,7 +8713,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 134.62 138.43 0)
 			(effects
 				(font
@@ -8799,7 +8799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_3.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_3.00u"
 			(at 101.6 129.54 0)
 			(effects
 				(font
@@ -8869,7 +8869,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 185.42 119.38 0)
 			(effects
 				(font
@@ -8955,7 +8955,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 63.5 57.15 0)
 			(effects
 				(font
@@ -9023,7 +9023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 152.4 74.93 0)
 			(effects
 				(font
@@ -9093,7 +9093,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 210.82 66.04 0)
 			(effects
 				(font
@@ -9180,7 +9180,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 83.82 83.82 0)
 			(effects
 				(font
@@ -9268,7 +9268,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 172.72 100.33 0)
 			(effects
 				(font
@@ -9355,7 +9355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 83.82 100.33 0)
 			(effects
 				(font
@@ -9442,7 +9442,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 83.82 66.04 0)
 			(effects
 				(font
@@ -9529,7 +9529,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 96.52 100.33 0)
 			(effects
 				(font
@@ -9617,7 +9617,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 198.12 100.33 0)
 			(effects
 				(font
@@ -9703,7 +9703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 101.6 91.44 0)
 			(effects
 				(font
@@ -9771,7 +9771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 114.3 57.15 0)
 			(effects
 				(font
@@ -9841,7 +9841,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 160.02 66.04 0)
 			(effects
 				(font
@@ -9927,7 +9927,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 114.3 110.49 0)
 			(effects
 				(font
@@ -9997,7 +9997,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 134.62 66.04 0)
 			(effects
 				(font
@@ -10083,7 +10083,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 152.4 110.49 0)
 			(effects
 				(font
@@ -10153,7 +10153,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 185.42 66.04 0)
 			(effects
 				(font
@@ -10239,7 +10239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 127 74.93 0)
 			(effects
 				(font
@@ -10307,7 +10307,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 139.7 110.49 0)
 			(effects
 				(font
@@ -10375,7 +10375,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_2.25u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_2.25u"
 			(at 215.9 91.44 0)
 			(effects
 				(font
@@ -10445,7 +10445,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 198.12 66.04 0)
 			(effects
 				(font
@@ -10533,7 +10533,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 121.92 66.04 0)
 			(effects
 				(font
@@ -10621,7 +10621,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 223.52 83.82 0)
 			(effects
 				(font
@@ -10709,7 +10709,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 172.72 66.04 0)
 			(effects
 				(font
@@ -10797,7 +10797,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 71.12 83.82 0)
 			(effects
 				(font
@@ -10885,7 +10885,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 58.42 83.82 0)
 			(effects
 				(font
@@ -10971,7 +10971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 76.2 57.15 0)
 			(effects
 				(font
@@ -11039,7 +11039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 76.2 110.49 0)
 			(effects
 				(font
@@ -11107,7 +11107,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 88.9 57.15 0)
 			(effects
 				(font
@@ -11177,7 +11177,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 58.42 100.33 0)
 			(effects
 				(font
@@ -11263,7 +11263,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 101.6 110.49 0)
 			(effects
 				(font
@@ -11331,7 +11331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 177.8 110.49 0)
 			(effects
 				(font
@@ -11399,7 +11399,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 88.9 74.93 0)
 			(effects
 				(font
@@ -11469,7 +11469,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 71.12 100.33 0)
 			(effects
 				(font
@@ -11557,7 +11557,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 223.52 66.04 0)
 			(effects
 				(font
@@ -11643,7 +11643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 177.8 57.15 0)
 			(effects
 				(font
@@ -11711,7 +11711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 165.1 91.44 0)
 			(effects
 				(font
@@ -11779,7 +11779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 203.2 74.93 0)
 			(effects
 				(font
@@ -11849,7 +11849,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 121.92 100.33 0)
 			(effects
 				(font
@@ -11937,7 +11937,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 198.12 83.82 0)
 			(effects
 				(font
@@ -12023,7 +12023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_Mini_1.00u"
+		(property "Footprint" "Kahil Switches:SW_Kailh_Choc_V2_1.00u"
 			(at 76.2 91.44 0)
 			(effects
 				(font
